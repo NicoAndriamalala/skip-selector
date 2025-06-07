@@ -81,7 +81,7 @@ src/
 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/NicoAndriamalala/skip-selector.git
 cd skip-selector
 ```
 
@@ -175,4 +175,5 @@ The design system uses CSS custom properties for easy theming:
 - Consistent spacing scale
 - Responsive breakpoints
 - Animation timing functions
+
 # skip-selector
