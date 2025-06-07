@@ -176,4 +176,6 @@ The design system uses CSS custom properties for easy theming:
 - Responsive breakpoints
 - Animation timing functions
 
-# skip-selector
+# Sandbox URL
+
+https://codesandbox.io/p/github/NicoAndriamalala/skip-selector/main?import=true
